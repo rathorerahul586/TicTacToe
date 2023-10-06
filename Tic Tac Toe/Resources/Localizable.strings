@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Tic Tac Toe
+
+  Created by Rahul Kumar on 28/09/23.
+  
+*/
+
+"ticTacToe" = "Tic Tac Toe";
+"singlePlayer" = "Single Player";
+"twoPlayer" = "Two Player";
+"online" = "Online";
+"yourTurn" = "Your Turn";
+"opponentTurn" = "Opponent Turn";
+"youWin" = "You Win";
+"opponentWin" = "Opponent Win";
+"scoreBoard" = "Score Board";
+"you" = "You";
+"opponent" = "Opponent";
+"draw" = "Draw";
+"win" = "Win";
+"loose" = "Loose";
+"yourScore" = "Your Score";
+"playAgain" = "Play Again";
+"gameDraw" = "Game Draw";
+"logout" = "Logout";
+"cancel" = "Cancel";
+"quit" = "Quit";
+"confirmExit" = "Confirm Exit";
+"quitMessage" = "Are you sure you want to quit the game?";
+"pleaseWait" = "Please Wait";
+"findingOnlinePlayer" = "Finding online player for you";
+"partnerLeft" = "Your Partner Left";
+"partnerLeftMessage" = "Your partner left the game. Would you like to play game again with another player?";
+"buyPremium" = "Buy Premium";
+"buyTicTacToePremium" = "Buy Tic Tac Toc Premium";
+"buyPremiumMessage" = "Become a Premium User to Play Game Online";
+"buyNow" = "Buy Now";
+"paymentFail" = "Payment Failed";
+"ok" = "Ok";
+

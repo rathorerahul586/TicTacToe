@@ -1,0 +1,23 @@
+strings:
+  inputs:
+    - Tic Tac Toe/Resources/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Tic Tac Toe/SwiftGen/Strings.swift
+      
+xcassets:
+  inputs:
+    - Tic Tac Toe/Resources/Assets.xcassets
+    - Tic Tac Toe/Resources/Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: Tic Tac Toe/SwiftGen/Assets.swift
+      
+ib:
+  inputs:
+    - Tic Tac Toe/Storyboards
+  outputs:
+    - templateName: scenes-swift5
+      output: Tic Tac Toe/SwiftGen/StoryboardScenes.swift
+    - templateName: segues-swift5
+      output: Tic Tac Toe/SwiftGen/StoryboardSegues.swift
